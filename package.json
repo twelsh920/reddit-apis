@@ -1,0 +1,14 @@
+{
+  "name": "reddit-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fantasyhockey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "twelsh920",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
