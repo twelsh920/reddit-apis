@@ -4,5 +4,6 @@
   "REDIRECT_URI": null,
   "USER_STATE": null,
   "OAUTH": {},
-  "SUBREDDIT_NAME": ""
+  "SUBREDDIT_NAME": "",
+  "DISABLE_REDDIT_API": false
 }
